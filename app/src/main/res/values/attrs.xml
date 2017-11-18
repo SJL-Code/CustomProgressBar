@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomProgressBarStyle">
+        <!-- 进度条的宽度 -->
+        <attr name="width" format="dimension" />
+        <!-- 进度条的背景颜色 -->
+        <attr name="backgroundColor" format="color" />
+        <!-- 进度条的进度颜色 -->
+        <attr name="progressColor" format="color" />
+    </declare-styleable>
+
+</resources>
